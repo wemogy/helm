@@ -2,8 +2,9 @@ name: Generate Helm Index
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
-
+    paths:
+    - 'charts/**'
+    
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,8 +17,8 @@ jobs:
       - run: helm repo index --url https://github.com/wemogy/helm charts
       - name: Add & Commit
         uses: EndBug/add-and-commit@v7.1.1
-        with:
-          add: index.yaml                    
+        with:                    
           branch: main
-          message: 'Updates index.yaml'
+          message: 'Updates Helm Index'
+          push: true
       
