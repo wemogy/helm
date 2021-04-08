@@ -1,4 +1,4 @@
-# wemogy Helm Charts
+# Helm Charts
 
 The following Helm Charts are available:
 
