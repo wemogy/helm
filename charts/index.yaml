@@ -9,7 +9,7 @@ entries:
     name: identity
     type: application
     urls:
-    - https://github.com/wemogy/helm/identity-0.4.4.tgz
+    - https://github.com/wemogy/helm/charts/identity-0.4.4.tgz
     version: 0.4.4
   identity-demo:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: identity-demo
     type: application
     urls:
-    - https://github.com/wemogy/helm/identity-demo-0.4.4.tgz
+    - https://github.com/wemogy/helm/charts/identity-demo-0.4.4.tgz
     version: 0.4.4
 generated: "2021-04-08T20:14:43.460393834Z"
