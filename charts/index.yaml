@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   identity:
   - apiVersion: v2
+    appVersion: 0.5.2
+    created: "2021-04-11T14:46:13.454315134Z"
+    description: wemogy Identity Provider
+    digest: 4be032d303fb9f507d85f40c7bc8899aefce261a79511e79281ce42506744faa
+    name: identity
+    type: application
+    urls:
+    - https://wemogy.github.io/helm/charts/identity-0.5.2.tgz
+    version: 0.5.2
+  - apiVersion: v2
     appVersion: 0.5.1
     created: "2021-04-11T14:41:52.49321114Z"
     description: wemogy Identity Provider
@@ -33,6 +43,16 @@ entries:
     version: 0.4.4
   identity-demo:
   - apiVersion: v2
+    appVersion: 0.5.2
+    created: "2021-04-11T14:46:13.454665556Z"
+    description: wemogy Identity Provider Demo Apps
+    digest: 893323479de00aac8cbb58927566d2a39b847445f6a2a3fa30657edeb51b4a59
+    name: identity-demo
+    type: application
+    urls:
+    - https://wemogy.github.io/helm/charts/identity-demo-0.5.2.tgz
+    version: 0.5.2
+  - apiVersion: v2
     appVersion: 0.5.1
     created: "2021-04-11T14:41:52.494355436Z"
     description: wemogy Identity Provider Demo Apps
@@ -62,4 +82,4 @@ entries:
     urls:
     - https://wemogy.github.io/helm/charts/identity-demo-0.4.4.tgz
     version: 0.4.4
-generated: "2021-04-11T14:41:52.49119367Z"
+generated: "2021-04-11T14:46:13.45361889Z"
