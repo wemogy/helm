@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   identity:
   - apiVersion: v2
+    appVersion: 0.8.4
+    created: "2021-07-05T14:04:33.484466687Z"
+    description: wemogy Identity Provider
+    digest: ba5f65196f02b900b6997167759e7c5cf42c83dff9ad0c4be2ce5f6e2dec4e15
+    name: identity
+    type: application
+    urls:
+    - https://wemogy.github.io/helm/charts/identity-0.8.4.tgz
+    version: 0.8.4
+  - apiVersion: v2
     appVersion: 0.8.3
-    created: "2021-06-24T18:32:36.373922561Z"
+    created: "2021-07-05T14:04:33.483885183Z"
     description: wemogy Identity Provider
     digest: d5b0588bf6dd94da77ac3801b10ffc809644c3ec6a257c6fbfb9e70c316531b2
     name: identity
@@ -13,7 +23,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: 0.8.2
-    created: "2021-06-24T18:32:36.372987954Z"
+    created: "2021-07-05T14:04:33.483294378Z"
     description: wemogy Identity Provider
     digest: ebe646621cfda445f897adcc2613cef66c4fb15116fe21a7e8bb8bd6dcbd4ec1
     name: identity
@@ -23,7 +33,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: 0.8.1
-    created: "2021-06-24T18:32:36.371831445Z"
+    created: "2021-07-05T14:04:33.482611673Z"
     description: wemogy Identity Provider
     digest: f30859df7bae0c340c8cd62807c45be5af6d8d0910cad4fc3d7aa186e70565a4
     name: identity
@@ -33,7 +43,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 0.8.0
-    created: "2021-06-24T18:32:36.37120964Z"
+    created: "2021-07-05T14:04:33.481872568Z"
     description: wemogy Identity Provider
     digest: 87bd2c19b8945c5edb22893ac2cb8807a7dc999cf6a5f1d08b911341445853ba
     name: identity
@@ -43,7 +53,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2021-06-24T18:32:36.370594035Z"
+    created: "2021-07-05T14:04:33.481169962Z"
     description: wemogy Identity Provider
     digest: 4eb32c65c389123016130b9bc53fc3e6f521664d70977ab32e46fbb0db74ae8c
     name: identity
@@ -53,7 +63,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.6.3
-    created: "2021-06-24T18:32:36.370032831Z"
+    created: "2021-07-05T14:04:33.480250555Z"
     description: wemogy Identity Provider
     digest: 96d3bc592b51209331a4b5a1f58c77686def56b56d163ee489fa1f5ebe32eb87
     name: identity
@@ -63,7 +73,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 0.6.2
-    created: "2021-06-24T18:32:36.369518927Z"
+    created: "2021-07-05T14:04:33.479758952Z"
     description: wemogy Identity Provider
     digest: 0f218836c0a8ed266caf536783dbecf473e844937461953e6ff2192225559cab
     name: identity
@@ -73,7 +83,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: 0.6.1
-    created: "2021-06-24T18:32:36.368941323Z"
+    created: "2021-07-05T14:04:33.479268648Z"
     description: wemogy Identity Provider
     digest: 84999760c0f5e09c44f72c44bb71e9caa1d94b3d35675303429d6b9e7f825c0a
     name: identity
@@ -83,7 +93,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 0.5.5
-    created: "2021-06-24T18:32:36.367771614Z"
+    created: "2021-07-05T14:04:33.478782045Z"
     description: wemogy Identity Provider
     digest: 618a940b1ad5a4883494b80a8354d466301bb815fd78dd74df618bda8b1aeca8
     name: identity
@@ -93,7 +103,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 0.5.4
-    created: "2021-06-24T18:32:36.36723421Z"
+    created: "2021-07-05T14:04:33.478270341Z"
     description: wemogy Identity Provider
     digest: 3b451672cafd8298e358b1562480f41929cfcf583cefdc4207a13a70a1c17945
     name: identity
@@ -103,7 +113,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 0.5.3
-    created: "2021-06-24T18:32:36.366662205Z"
+    created: "2021-07-05T14:04:33.477783737Z"
     description: wemogy Identity Provider
     digest: 7eb482f3d5648ee14a35621bcf825f2a39f72c092a7d71a66ebf2a40201f19a6
     name: identity
@@ -113,7 +123,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2021-06-24T18:32:36.366103701Z"
+    created: "2021-07-05T14:04:33.477279033Z"
     description: wemogy Identity Provider
     digest: 4be032d303fb9f507d85f40c7bc8899aefce261a79511e79281ce42506744faa
     name: identity
@@ -123,7 +133,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.5.1
-    created: "2021-06-24T18:32:36.365482296Z"
+    created: "2021-07-05T14:04:33.476725729Z"
     description: wemogy Identity Provider
     digest: bb736d554b8914df0da7a50f4f72b39294a3593a8edfc24363fff44ffe740570
     name: identity
@@ -133,7 +143,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2021-06-24T18:32:36.364912692Z"
+    created: "2021-07-05T14:04:33.476239626Z"
     description: wemogy Identity Provider
     digest: 1ce4bfc0065200a2a26be6163a03367088e2486139ff3609e025c7f0e324e5f3
     name: identity
@@ -143,7 +153,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.4
-    created: "2021-06-24T18:32:36.364316987Z"
+    created: "2021-07-05T14:04:33.475739122Z"
     description: wemogy Identity Provider
     digest: cde48836c3cab2f91abc135c005072d3c53af0b2b6921c7c1d810d58b11bfce8
     name: identity
@@ -153,8 +163,18 @@ entries:
     version: 0.4.4
   identity-demo:
   - apiVersion: v2
+    appVersion: 0.8.4
+    created: "2021-07-05T14:04:33.489640225Z"
+    description: wemogy Identity Provider Demo Apps
+    digest: 9ed9429b72f946949dc4f157296c8d6bcbb4c0830fc19a5b114e4a1efbe8775c
+    name: identity-demo
+    type: application
+    urls:
+    - https://wemogy.github.io/helm/charts/identity-demo-0.8.4.tgz
+    version: 0.8.4
+  - apiVersion: v2
     appVersion: 0.8.3
-    created: "2021-06-24T18:32:36.379973307Z"
+    created: "2021-07-05T14:04:33.489332523Z"
     description: wemogy Identity Provider Demo Apps
     digest: 30357a3da3ff678b86e14b870fa99b248492e7a36e7ff52b0e18765b57621302
     name: identity-demo
@@ -164,7 +184,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: 0.8.2
-    created: "2021-06-24T18:32:36.379671605Z"
+    created: "2021-07-05T14:04:33.489021721Z"
     description: wemogy Identity Provider Demo Apps
     digest: 62e8053bb12e6e78acf1bda1bcf01cc013faa236b11f7185460a2549f950d730
     name: identity-demo
@@ -174,7 +194,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: 0.8.1
-    created: "2021-06-24T18:32:36.379338003Z"
+    created: "2021-07-05T14:04:33.488707518Z"
     description: wemogy Identity Provider Demo Apps
     digest: 1b260438a3f45339c2853f3aa2f441978a495d80fee4d1db58ea283e84821691
     name: identity-demo
@@ -184,7 +204,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 0.8.0
-    created: "2021-06-24T18:32:36.3789642Z"
+    created: "2021-07-05T14:04:33.488326816Z"
     description: wemogy Identity Provider Demo Apps
     digest: da8e7850a110c37df1dc0e86d5812d474967e4fb1d60bfde71db4370bb9141f5
     name: identity-demo
@@ -194,7 +214,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2021-06-24T18:32:36.378576097Z"
+    created: "2021-07-05T14:04:33.488015013Z"
     description: wemogy Identity Provider Demo Apps
     digest: fa648d11c3a0c5c22966c0f6a4afd781d6404702b8a98b2aa0eee41e16b296b9
     name: identity-demo
@@ -204,7 +224,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.6.3
-    created: "2021-06-24T18:32:36.378196594Z"
+    created: "2021-07-05T14:04:33.487686311Z"
     description: wemogy Identity Provider Demo Apps
     digest: 135a7b6675431ac6a7008dec70cac80f61ce505aa6010cfb09622aa607b80ff6
     name: identity-demo
@@ -214,7 +234,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 0.6.2
-    created: "2021-06-24T18:32:36.377857391Z"
+    created: "2021-07-05T14:04:33.487338508Z"
     description: wemogy Identity Provider Demo Apps
     digest: 9be27ae8fe0327d518970ec7a14d7f449d134723b9222b4bbf70b4de16bc9efb
     name: identity-demo
@@ -224,7 +244,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: 0.6.1
-    created: "2021-06-24T18:32:36.377486388Z"
+    created: "2021-07-05T14:04:33.487025906Z"
     description: wemogy Identity Provider Demo Apps
     digest: 8f3b77f633ef5141e1888dd01e35f7bfbb017da716e0f78434ea02c80c53ef88
     name: identity-demo
@@ -234,7 +254,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 0.5.5
-    created: "2021-06-24T18:32:36.377125186Z"
+    created: "2021-07-05T14:04:33.486715104Z"
     description: wemogy Identity Provider Demo Apps
     digest: f61948f8b60da41d69ac6714192c0a4c3a52759340e34ccda2f03e0a735a7b9b
     name: identity-demo
@@ -244,7 +264,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 0.5.4
-    created: "2021-06-24T18:32:36.376771983Z"
+    created: "2021-07-05T14:04:33.486346901Z"
     description: wemogy Identity Provider Demo Apps
     digest: 8863679b3a1c8a4e8407593b3ca4bf02f7cf85c93403b62c70671f2dec1a19ad
     name: identity-demo
@@ -254,7 +274,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 0.5.3
-    created: "2021-06-24T18:32:36.37637348Z"
+    created: "2021-07-05T14:04:33.486035399Z"
     description: wemogy Identity Provider Demo Apps
     digest: 40c86460b8322026ebda8150d29e9ce7f76e5c718729aaedb15a845b6ea5f9a6
     name: identity-demo
@@ -264,7 +284,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2021-06-24T18:32:36.375989377Z"
+    created: "2021-07-05T14:04:33.485725396Z"
     description: wemogy Identity Provider Demo Apps
     digest: 893323479de00aac8cbb58927566d2a39b847445f6a2a3fa30657edeb51b4a59
     name: identity-demo
@@ -274,7 +294,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.5.1
-    created: "2021-06-24T18:32:36.375588774Z"
+    created: "2021-07-05T14:04:33.485414794Z"
     description: wemogy Identity Provider Demo Apps
     digest: 4350c101c1ce91bb8075bc80a506971abe65b2471a9d9df274032454a77701cf
     name: identity-demo
@@ -284,7 +304,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2021-06-24T18:32:36.374966369Z"
+    created: "2021-07-05T14:04:33.485100292Z"
     description: wemogy Identity Provider Demo Apps
     digest: a10e50c381355081c33e7a526d12322792ef466c1bb78ffe7998b3722e475f34
     name: identity-demo
@@ -294,7 +314,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.4
-    created: "2021-06-24T18:32:36.374446465Z"
+    created: "2021-07-05T14:04:33.484784489Z"
     description: wemogy Identity Provider Demo Apps
     digest: 11564647b0c62892b419b557e8c3313ac71bba59c5dffbc2062b9f02f07a5221
     name: identity-demo
@@ -302,4 +322,4 @@ entries:
     urls:
     - https://wemogy.github.io/helm/charts/identity-demo-0.4.4.tgz
     version: 0.4.4
-generated: "2021-06-24T18:32:36.363528681Z"
+generated: "2021-07-05T14:04:33.475069317Z"
