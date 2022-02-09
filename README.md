@@ -8,8 +8,26 @@ The following Helm Charts are available:
 
 ## How to use
 
-Add the repository to your Helm repos
+Add the repository to your Helm repos.
 
 ```bash
 helm repo add wemogy https://wemogy.github.io/helm/charts
+```
+
+Create an Image Pull Secret in the Namespace you want to deploy to. You can get the credential for your Pull Secret from wemogy.
+
+```bash
+kubectl create secret docker-registry wemogy-pull-secret \
+  --docker-username=<USERNAME> \
+  --docker-password=<PASSWORD> \
+  --docker-server wemogycloudacr.azurecr.io
+```
+
+Install the Helm Chart.
+
+```bash
+helm install <YOUR_RELEASE_NAME> wemogy/<CHART_NAME> \
+  --version <VERSION> \
+  --values <VALUES> \
+  --wait
 ```
