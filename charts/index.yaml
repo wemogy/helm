@@ -3,14 +3,14 @@ entries:
   authorization:
   - apiVersion: v2
     appVersion: 0.9.10
-    created: "2023-03-20T09:04:04.123356313Z"
+    created: "2023-03-21T11:07:44.668953713Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
       repository: https://dapr.github.io/helm-charts/
       version: 1.6.0
     description: wemogy Authorization Service
-    digest: 9d1b5f23570f68a38f880938e5ec24330ed91f14cfebd7df5128a2f1b254cc6a
+    digest: ef8c2b430bb33d6638f4702e4732ed1a71688fd0143e35fe26f228b92890a4ad
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
     name: authorization
     type: application
@@ -19,7 +19,7 @@ entries:
     version: 0.9.10
   - apiVersion: v2
     appVersion: 0.9.9
-    created: "2023-03-20T09:04:04.144312055Z"
+    created: "2023-03-21T11:07:44.688904557Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -35,7 +35,7 @@ entries:
     version: 0.9.9
   - apiVersion: v2
     appVersion: 0.9.8
-    created: "2023-03-20T09:04:04.141955016Z"
+    created: "2023-03-21T11:07:44.686382551Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -51,7 +51,7 @@ entries:
     version: 0.9.8
   - apiVersion: v2
     appVersion: 0.9.7
-    created: "2023-03-20T09:04:04.139223372Z"
+    created: "2023-03-21T11:07:44.684060746Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -67,7 +67,7 @@ entries:
     version: 0.9.7
   - apiVersion: v2
     appVersion: 0.9.6
-    created: "2023-03-20T09:04:04.135815216Z"
+    created: "2023-03-21T11:07:44.681786241Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -83,7 +83,7 @@ entries:
     version: 0.9.6
   - apiVersion: v2
     appVersion: 0.9.5
-    created: "2023-03-20T09:04:04.133472178Z"
+    created: "2023-03-21T11:07:44.679396736Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -99,7 +99,7 @@ entries:
     version: 0.9.5
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2023-03-20T09:04:04.13110124Z"
+    created: "2023-03-21T11:07:44.675768528Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -115,7 +115,7 @@ entries:
     version: 0.9.4
   - apiVersion: v2
     appVersion: 0.9.3
-    created: "2023-03-20T09:04:04.128729101Z"
+    created: "2023-03-21T11:07:44.673472023Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -131,7 +131,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: 0.9.2
-    created: "2023-03-20T09:04:04.126339662Z"
+    created: "2023-03-21T11:07:44.671231418Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -147,7 +147,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 0.9.1
-    created: "2023-03-20T09:04:04.120397465Z"
+    created: "2023-03-21T11:07:44.666604508Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -163,7 +163,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 0.8.1
-    created: "2023-03-20T09:04:04.118073427Z"
+    created: "2023-03-21T11:07:44.663904102Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -179,7 +179,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 0.7.16
-    created: "2023-03-20T09:04:04.094482543Z"
+    created: "2023-03-21T11:07:44.638786547Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -195,7 +195,7 @@ entries:
     version: 0.7.16
   - apiVersion: v2
     appVersion: 0.7.15
-    created: "2023-03-20T09:04:04.092180106Z"
+    created: "2023-03-21T11:07:44.635147039Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -211,7 +211,7 @@ entries:
     version: 0.7.15
   - apiVersion: v2
     appVersion: 0.7.14
-    created: "2023-03-20T09:04:04.087449328Z"
+    created: "2023-03-21T11:07:44.632899034Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -227,7 +227,7 @@ entries:
     version: 0.7.14
   - apiVersion: v2
     appVersion: 0.7.13
-    created: "2023-03-20T09:04:04.085167691Z"
+    created: "2023-03-21T11:07:44.630691729Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -243,7 +243,7 @@ entries:
     version: 0.7.13
   - apiVersion: v2
     appVersion: 0.7.12
-    created: "2023-03-20T09:04:04.082808453Z"
+    created: "2023-03-21T11:07:44.628405024Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -259,7 +259,7 @@ entries:
     version: 0.7.12
   - apiVersion: v2
     appVersion: 0.7.11
-    created: "2023-03-20T09:04:04.07773377Z"
+    created: "2023-03-21T11:07:44.626159519Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -275,7 +275,7 @@ entries:
     version: 0.7.11
   - apiVersion: v2
     appVersion: 0.7.10
-    created: "2023-03-20T09:04:04.075389732Z"
+    created: "2023-03-21T11:07:44.622281211Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -291,7 +291,7 @@ entries:
     version: 0.7.10
   - apiVersion: v2
     appVersion: 0.7.9
-    created: "2023-03-20T09:04:04.11576029Z"
+    created: "2023-03-21T11:07:44.660920795Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -307,7 +307,7 @@ entries:
     version: 0.7.9
   - apiVersion: v2
     appVersion: 0.7.8
-    created: "2023-03-20T09:04:04.113450052Z"
+    created: "2023-03-21T11:07:44.65868699Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -323,7 +323,7 @@ entries:
     version: 0.7.8
   - apiVersion: v2
     appVersion: 0.7.7
-    created: "2023-03-20T09:04:04.110804609Z"
+    created: "2023-03-21T11:07:44.656422986Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -339,7 +339,7 @@ entries:
     version: 0.7.7
   - apiVersion: v2
     appVersion: 0.7.6
-    created: "2023-03-20T09:04:04.107397053Z"
+    created: "2023-03-21T11:07:44.654190581Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -355,7 +355,7 @@ entries:
     version: 0.7.6
   - apiVersion: v2
     appVersion: 0.7.5
-    created: "2023-03-20T09:04:04.105060715Z"
+    created: "2023-03-21T11:07:44.647874667Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -371,7 +371,7 @@ entries:
     version: 0.7.5
   - apiVersion: v2
     appVersion: 0.7.4
-    created: "2023-03-20T09:04:04.102728077Z"
+    created: "2023-03-21T11:07:44.645641062Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -387,7 +387,7 @@ entries:
     version: 0.7.4
   - apiVersion: v2
     appVersion: 0.7.3
-    created: "2023-03-20T09:04:04.10042904Z"
+    created: "2023-03-21T11:07:44.643356857Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -403,7 +403,7 @@ entries:
     version: 0.7.3
   - apiVersion: v2
     appVersion: 0.7.2
-    created: "2023-03-20T09:04:04.098090202Z"
+    created: "2023-03-21T11:07:44.641104052Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -419,7 +419,7 @@ entries:
     version: 0.7.2
   - apiVersion: v2
     appVersion: 0.7.1
-    created: "2023-03-20T09:04:04.073074494Z"
+    created: "2023-03-21T11:07:44.618924504Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -435,7 +435,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 0.6.1
-    created: "2023-03-20T09:04:04.070744756Z"
+    created: "2023-03-21T11:07:44.616711799Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -451,7 +451,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 0.5.10
-    created: "2023-03-20T09:04:04.047485477Z"
+    created: "2023-03-21T11:07:44.592543946Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -467,7 +467,7 @@ entries:
     version: 0.5.10
   - apiVersion: v2
     appVersion: 0.5.9
-    created: "2023-03-20T09:04:04.068466819Z"
+    created: "2023-03-21T11:07:44.614523294Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -483,7 +483,7 @@ entries:
     version: 0.5.9
   - apiVersion: v2
     appVersion: 0.5.8
-    created: "2023-03-20T09:04:04.065721875Z"
+    created: "2023-03-21T11:07:44.612280089Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -499,7 +499,7 @@ entries:
     version: 0.5.8
   - apiVersion: v2
     appVersion: 0.5.7
-    created: "2023-03-20T09:04:04.062661725Z"
+    created: "2023-03-21T11:07:44.606997077Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -515,7 +515,7 @@ entries:
     version: 0.5.7
   - apiVersion: v2
     appVersion: 0.5.6
-    created: "2023-03-20T09:04:04.060356987Z"
+    created: "2023-03-21T11:07:44.604759273Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -531,7 +531,7 @@ entries:
     version: 0.5.6
   - apiVersion: v2
     appVersion: 0.5.5
-    created: "2023-03-20T09:04:04.05807875Z"
+    created: "2023-03-21T11:07:44.602537868Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -547,7 +547,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 0.5.4
-    created: "2023-03-20T09:04:04.055808913Z"
+    created: "2023-03-21T11:07:44.600295663Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -563,7 +563,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 0.5.3
-    created: "2023-03-20T09:04:04.053439774Z"
+    created: "2023-03-21T11:07:44.598012158Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -579,7 +579,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2023-03-20T09:04:04.049842616Z"
+    created: "2023-03-21T11:07:44.595335052Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -595,7 +595,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.5.1
-    created: "2023-03-20T09:04:04.04519884Z"
+    created: "2023-03-21T11:07:44.590346541Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -611,7 +611,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.4.4
-    created: "2023-03-20T09:04:04.042883302Z"
+    created: "2023-03-21T11:07:44.588132436Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -627,7 +627,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 0.4.3
-    created: "2023-03-20T09:04:04.040585865Z"
+    created: "2023-03-21T11:07:44.585888131Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -643,7 +643,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-03-20T09:04:04.037984423Z"
+    created: "2023-03-21T11:07:44.583412326Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -659,7 +659,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2023-03-20T09:04:04.03473347Z"
+    created: "2023-03-21T11:07:44.580310119Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -675,7 +675,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.3.14
-    created: "2023-03-20T09:04:04.011554192Z"
+    created: "2023-03-21T11:07:44.558906272Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -691,7 +691,7 @@ entries:
     version: 0.3.14
   - apiVersion: v2
     appVersion: 0.3.13
-    created: "2023-03-20T09:04:04.008229038Z"
+    created: "2023-03-21T11:07:44.555904666Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -707,7 +707,7 @@ entries:
     version: 0.3.13
   - apiVersion: v2
     appVersion: 0.3.12
-    created: "2023-03-20T09:04:04.005467093Z"
+    created: "2023-03-21T11:07:44.55347816Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -723,7 +723,7 @@ entries:
     version: 0.3.12
   - apiVersion: v2
     appVersion: 0.3.11
-    created: "2023-03-20T09:04:04.003132755Z"
+    created: "2023-03-21T11:07:44.551263456Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -739,7 +739,7 @@ entries:
     version: 0.3.11
   - apiVersion: v2
     appVersion: 0.3.10
-    created: "2023-03-20T09:04:04.000821517Z"
+    created: "2023-03-21T11:07:44.548999651Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -755,7 +755,7 @@ entries:
     version: 0.3.10
   - apiVersion: v2
     appVersion: 0.3.9
-    created: "2023-03-20T09:04:04.032389232Z"
+    created: "2023-03-21T11:07:44.578124914Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -771,7 +771,7 @@ entries:
     version: 0.3.9
   - apiVersion: v2
     appVersion: 0.3.8
-    created: "2023-03-20T09:04:04.030078294Z"
+    created: "2023-03-21T11:07:44.575874309Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -787,7 +787,7 @@ entries:
     version: 0.3.8
   - apiVersion: v2
     appVersion: 0.3.7
-    created: "2023-03-20T09:04:04.027627054Z"
+    created: "2023-03-21T11:07:44.573594104Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -803,7 +803,7 @@ entries:
     version: 0.3.7
   - apiVersion: v2
     appVersion: 0.3.6
-    created: "2023-03-20T09:04:04.025225015Z"
+    created: "2023-03-21T11:07:44.571307299Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -819,7 +819,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: 0.3.5
-    created: "2023-03-20T09:04:04.021440753Z"
+    created: "2023-03-21T11:07:44.567774992Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -835,7 +835,7 @@ entries:
     version: 0.3.5
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2023-03-20T09:04:04.019033614Z"
+    created: "2023-03-21T11:07:44.565588287Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -851,7 +851,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2023-03-20T09:04:04.016299669Z"
+    created: "2023-03-21T11:07:44.563359882Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -867,7 +867,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.3.2
-    created: "2023-03-20T09:04:04.013934131Z"
+    created: "2023-03-21T11:07:44.561148777Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -883,7 +883,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2023-03-20T09:04:03.998464479Z"
+    created: "2023-03-21T11:07:44.542217936Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -899,7 +899,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2023-03-20T09:04:03.995886737Z"
+    created: "2023-03-21T11:07:44.539963431Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -915,7 +915,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.2.6
-    created: "2023-03-20T09:04:03.991454265Z"
+    created: "2023-03-21T11:07:44.537802626Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -931,7 +931,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.2.5
-    created: "2023-03-20T09:04:03.989211928Z"
+    created: "2023-03-21T11:07:44.535592421Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -947,7 +947,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2023-03-20T09:04:03.987004192Z"
+    created: "2023-03-21T11:07:44.533471317Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -963,7 +963,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2023-03-20T09:04:03.984737255Z"
+    created: "2023-03-21T11:07:44.53036811Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -979,7 +979,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2023-03-20T09:04:03.982448518Z"
+    created: "2023-03-21T11:07:44.527468304Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -995,7 +995,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2023-03-20T09:04:03.975566706Z"
+    created: "2023-03-21T11:07:44.525273699Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1011,7 +1011,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0-pre4
-    created: "2023-03-20T09:04:03.97333987Z"
+    created: "2023-03-21T11:07:44.523049594Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1027,7 +1027,7 @@ entries:
     version: 0.2.0-pre4
   - apiVersion: v2
     appVersion: 0.1.37
-    created: "2023-03-20T09:04:03.969779912Z"
+    created: "2023-03-21T11:07:44.520819689Z"
     description: wemogy Authorization Service
     digest: 4135f80f11ca5a1a63c569491b08b9d020de0fc686ce3bab9b89706682cd7d35
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1038,7 +1038,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 0.1.36
-    created: "2023-03-20T09:04:03.969489407Z"
+    created: "2023-03-21T11:07:44.520555988Z"
     description: wemogy Authorization Service
     digest: 6b5bc9e7091275d2c5f752a17d5c72b36c8b8453ec9cc00ab5bcdf549ae7949b
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1049,7 +1049,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 0.1.35
-    created: "2023-03-20T09:04:03.969180202Z"
+    created: "2023-03-21T11:07:44.520293988Z"
     description: wemogy Authorization Service
     digest: 367ddbe8166d2813611de19caf1d699159dc3c00bfaf4f3ffa977ab3ef48d748
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1060,7 +1060,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 0.1.34
-    created: "2023-03-20T09:04:03.968894097Z"
+    created: "2023-03-21T11:07:44.520036287Z"
     description: wemogy Authorization Service
     digest: fcd048d62fa3d99ee6286f829aafd23ded36ff4a3f57d54b38c87a80c53c6bfa
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1071,7 +1071,7 @@ entries:
     version: 0.1.34
   - apiVersion: v2
     appVersion: 0.1.33
-    created: "2023-03-20T09:04:03.968562492Z"
+    created: "2023-03-21T11:07:44.519767687Z"
     description: wemogy Authorization Service
     digest: b8740936abd212e43abec86be44b2a74799e510b689891375543be6cc8b9d090
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1082,7 +1082,7 @@ entries:
     version: 0.1.33
   - apiVersion: v2
     appVersion: 0.1.32
-    created: "2023-03-20T09:04:03.968280087Z"
+    created: "2023-03-21T11:07:44.519494386Z"
     description: wemogy Authorization Service
     digest: 06cdf4ab9bad9e75f871f3c3ada82bd54dfdd50efa2dd6074a572e83adc59676
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1093,7 +1093,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 0.1.31
-    created: "2023-03-20T09:04:03.967982582Z"
+    created: "2023-03-21T11:07:44.519151285Z"
     description: wemogy Authorization Service
     digest: 635c8a12a7a73b7ac1b5507faac3c3aad628fb6eec270b663d47ffd4d1f74987
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1104,7 +1104,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 0.1.30
-    created: "2023-03-20T09:04:03.967694878Z"
+    created: "2023-03-21T11:07:44.518244583Z"
     description: wemogy Authorization Service
     digest: d44526cadbbbe1b7d1af4de2a339b307a0483c209f080d8a65aa4308c8edca7d
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1115,7 +1115,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 0.1.29
-    created: "2023-03-20T09:04:03.967408173Z"
+    created: "2023-03-21T11:07:44.517888683Z"
     description: wemogy Authorization Service
     digest: fc488793cd04d8e4eb58a88095d0f9c5209479d6741adab8ca023bb0103f0e14
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1126,7 +1126,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 0.1.28
-    created: "2023-03-20T09:04:03.967133068Z"
+    created: "2023-03-21T11:07:44.517530082Z"
     description: wemogy Authorization Service
     digest: d9bc4c4fdadc8dc6ff8c017415b1f5d6b62c59bcb1d0b41c5e8ce551529f340a
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1137,7 +1137,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.27
-    created: "2023-03-20T09:04:03.966818863Z"
+    created: "2023-03-21T11:07:44.517124581Z"
     description: wemogy Authorization Service
     digest: 44020a8139eb350b31c074fa6e53059320c164b934779cc145dfba7fedcc1bbf
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1148,7 +1148,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.26
-    created: "2023-03-20T09:04:03.966502458Z"
+    created: "2023-03-21T11:07:44.51671148Z"
     description: wemogy Authorization Service
     digest: 16f1bf1b0d78f52746bb4d51c56444c91e66e9c4b75c11e117c54c2b427123e6
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1159,7 +1159,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.25
-    created: "2023-03-20T09:04:03.965596443Z"
+    created: "2023-03-21T11:07:44.516079479Z"
     description: wemogy Authorization Service
     digest: a402f7d6831d0ab8b2dc80bf773d6e06251316069f6f96322378cc36fdb5f5ee
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1170,7 +1170,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.24
-    created: "2023-03-20T09:04:03.965140836Z"
+    created: "2023-03-21T11:07:44.515773378Z"
     description: wemogy Authorization Service
     digest: e6196ebf556afe450d026bda8342a2703070db2eac4c825c50f055f074370d21
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1181,7 +1181,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.23
-    created: "2023-03-20T09:04:03.964709329Z"
+    created: "2023-03-21T11:07:44.515486977Z"
     description: wemogy Authorization Service
     digest: b66cde689c3f5f85ef1bb381aedfe4f0f261d8b90972d1a05cbbe8d0cc44143f
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1192,7 +1192,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2023-03-20T09:04:03.963942017Z"
+    created: "2023-03-21T11:07:44.515180477Z"
     description: wemogy Authorization Service
     digest: aff196854020cb657b7ecacc12b26d5596755be7c66bb923c540f745e276c6fd
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1203,7 +1203,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2023-03-20T09:04:03.963419908Z"
+    created: "2023-03-21T11:07:44.514849976Z"
     description: wemogy Authorization Service
     digest: 31058f487a215b83b9980646b4e7b3940ed7a7ef98d9564ae75eaa99c2b60ed9
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1214,7 +1214,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-20T09:04:03.963089603Z"
+    created: "2023-03-21T11:07:44.514533975Z"
     description: wemogy Authorization Service
     digest: f3bc1b41790f27f406e6c7a29c1f11404326f65c989a0ff5690afc76a1b50022
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1226,7 +1226,7 @@ entries:
   core:
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2023-03-20T09:04:04.174255443Z"
+    created: "2023-03-21T11:07:44.719953224Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1242,7 +1242,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2023-03-20T09:04:04.171916404Z"
+    created: "2023-03-21T11:07:44.717239019Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1258,7 +1258,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2023-03-20T09:04:04.169652268Z"
+    created: "2023-03-21T11:07:44.714181712Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1274,7 +1274,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2023-03-20T09:04:04.167097126Z"
+    created: "2023-03-21T11:07:44.711938207Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1290,7 +1290,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2023-03-20T09:04:04.163809272Z"
+    created: "2023-03-21T11:07:44.709731402Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1306,7 +1306,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2023-03-20T09:04:04.161529535Z"
+    created: "2023-03-21T11:07:44.707333197Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1322,7 +1322,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2023-03-20T09:04:04.159253498Z"
+    created: "2023-03-21T11:07:44.704550491Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1338,7 +1338,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2023-03-20T09:04:04.15693086Z"
+    created: "2023-03-21T11:07:44.701094183Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1354,7 +1354,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2023-03-20T09:04:04.154618323Z"
+    created: "2023-03-21T11:07:44.698894778Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1370,7 +1370,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2023-03-20T09:04:04.151128866Z"
+    created: "2023-03-21T11:07:44.696683674Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1386,7 +1386,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2023-03-20T09:04:04.194635975Z"
+    created: "2023-03-21T11:07:44.739070566Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1402,7 +1402,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2023-03-20T09:04:04.19130132Z"
+    created: "2023-03-21T11:07:44.736913462Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1418,7 +1418,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2023-03-20T09:04:04.189065484Z"
+    created: "2023-03-21T11:07:44.734737857Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1434,7 +1434,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2023-03-20T09:04:04.186856148Z"
+    created: "2023-03-21T11:07:44.732530552Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1450,7 +1450,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2023-03-20T09:04:04.184640412Z"
+    created: "2023-03-21T11:07:44.730048747Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1466,7 +1466,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2023-03-20T09:04:04.182385875Z"
+    created: "2023-03-21T11:07:44.726510639Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1482,7 +1482,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2023-03-20T09:04:04.178735515Z"
+    created: "2023-03-21T11:07:44.724262034Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1498,7 +1498,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2023-03-20T09:04:04.176466379Z"
+    created: "2023-03-21T11:07:44.722132129Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1514,7 +1514,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-03-20T09:04:04.148836528Z"
+    created: "2023-03-21T11:07:44.694503469Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1530,7 +1530,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-20T09:04:04.146621692Z"
+    created: "2023-03-21T11:07:44.692133564Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -1547,7 +1547,7 @@ entries:
   custom-domain:
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2023-03-20T09:04:04.19801213Z"
+    created: "2023-03-21T11:07:44.743248675Z"
     description: wemogy Custom Domain Helm Chart
     digest: e24c26add61827ee932b0c028047c4d5d0a832afcd47e699d0bad79d07c01770
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1558,7 +1558,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2023-03-20T09:04:04.197722425Z"
+    created: "2023-03-21T11:07:44.742880375Z"
     description: wemogy Custom Domain Helm Chart
     digest: d716efcf851cdd103493bfb2c653abea0ea831666ad2f6961bee16e0774275b7
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1569,7 +1569,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2023-03-20T09:04:04.19740812Z"
+    created: "2023-03-21T11:07:44.742493074Z"
     description: wemogy Custom Domain Helm Chart
     digest: c7870892af219e24961b59cb9da3c4f3640da79cdae92ba31078b883bf6fe5cc
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1580,7 +1580,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2023-03-20T09:04:04.197114415Z"
+    created: "2023-03-21T11:07:44.742057673Z"
     description: wemogy Custom Domain Helm Chart
     digest: 19396637a9c8d0a73ea7f0c12dc9357c93a271f6179504054e3ce63effab54b0
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1591,7 +1591,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2023-03-20T09:04:04.19682101Z"
+    created: "2023-03-21T11:07:44.74075387Z"
     description: wemogy Custom Domain Helm Chart
     digest: 63a5807414e981ba9d0118d027522f0c4fd8df9e47b9e828bcca1100860175f9
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1602,7 +1602,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2023-03-20T09:04:04.196462304Z"
+    created: "2023-03-21T11:07:44.740467969Z"
     description: wemogy Custom Domain Helm Chart
     digest: 797be3dff579f9c66c2bb902a22bf6e677b1fb670667881d02c8582b4f1af5b3
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1613,7 +1613,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2023-03-20T09:04:04.196164599Z"
+    created: "2023-03-21T11:07:44.740202969Z"
     description: wemogy Custom Domain Helm Chart
     digest: 2eb02c7b198074f21814b80383fc9d7afa2b929c162a9c723c85955636bf806e
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1624,7 +1624,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2023-03-20T09:04:04.195806594Z"
+    created: "2023-03-21T11:07:44.739930868Z"
     description: wemogy Custom Domain Helm Chart
     digest: f152e13c57c7145f89ca4fdc941ab61647f396fc392212ab31a17aec9a900014
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1635,7 +1635,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-03-20T09:04:04.195504489Z"
+    created: "2023-03-21T11:07:44.739659268Z"
     description: wemogy Custom Domain Helm Chart
     digest: c8934aa48c3860761130c9866538e80074573ea91462b35aaefd694962b6c4f8
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1646,7 +1646,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-20T09:04:04.195171583Z"
+    created: "2023-03-21T11:07:44.739375267Z"
     description: wemogy Custom Domain Helm Chart
     digest: 7585392a93791cdbaa60941d3360220e23fa961475039677b2e361f6e94d8595
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -1658,7 +1658,7 @@ entries:
   identity:
   - apiVersion: v2
     appVersion: 0.12.6
-    created: "2023-03-20T09:04:04.206690071Z"
+    created: "2023-03-21T11:07:44.751344593Z"
     description: wemogy Identity Provider
     digest: ca4f45697397c2de9394170556c1122b5ef3d728c356dcd22d541eda5b41a71f
     name: identity
@@ -1668,7 +1668,7 @@ entries:
     version: 0.12.6
   - apiVersion: v2
     appVersion: 0.12.5
-    created: "2023-03-20T09:04:04.205547452Z"
+    created: "2023-03-21T11:07:44.750578391Z"
     description: wemogy Identity Provider
     digest: db4ee4cf6b3a61e5d114c4e56ccda26d5506afadef255a61e1507772babf82dd
     name: identity
@@ -1678,7 +1678,7 @@ entries:
     version: 0.12.5
   - apiVersion: v2
     appVersion: 0.12.4
-    created: "2023-03-20T09:04:04.204442634Z"
+    created: "2023-03-21T11:07:44.74981489Z"
     description: wemogy Identity Provider
     digest: bc72e32a13d813f2c5b4bc8664f3cfeec43f3f1e9372bfba2bbefa1824169dfe
     name: identity
@@ -1688,7 +1688,7 @@ entries:
     version: 0.12.4
   - apiVersion: v2
     appVersion: 0.12.3
-    created: "2023-03-20T09:04:04.203628221Z"
+    created: "2023-03-21T11:07:44.748996388Z"
     description: wemogy Identity Provider
     digest: 5799750a93155794f85e1bb17071cfc45c0733e360b4b1bfb21266451a7571dc
     name: identity
@@ -1698,7 +1698,7 @@ entries:
     version: 0.12.3
   - apiVersion: v2
     appVersion: 0.12.2
-    created: "2023-03-20T09:04:04.202814808Z"
+    created: "2023-03-21T11:07:44.748249986Z"
     description: wemogy Identity Provider
     digest: 092be9d7f0aa510fa452b3e6d5bd1f0f84a4dbe65d177a7fb618c47281011dfa
     name: identity
@@ -1708,7 +1708,7 @@ entries:
     version: 0.12.2
   - apiVersion: v2
     appVersion: 0.12.1
-    created: "2023-03-20T09:04:04.202021995Z"
+    created: "2023-03-21T11:07:44.747488885Z"
     description: wemogy Identity Provider
     digest: d07cdcf5a6505c7112975069c84b6b751820e7b6798a3608b8f35ac0000d8315
     name: identity
@@ -1718,7 +1718,7 @@ entries:
     version: 0.12.1
   - apiVersion: v2
     appVersion: 0.12.0
-    created: "2023-03-20T09:04:04.201230482Z"
+    created: "2023-03-21T11:07:44.746754383Z"
     description: wemogy Identity Provider
     digest: 080a1a9a5ea68252e3bf46d01c1e7b61767fb711ba906d6b65e0b1c851fcebbc
     name: identity
@@ -1728,7 +1728,7 @@ entries:
     version: 0.12.0
   - apiVersion: v2
     appVersion: 0.11.0
-    created: "2023-03-20T09:04:04.200374468Z"
+    created: "2023-03-21T11:07:44.746010081Z"
     description: wemogy Identity Provider
     digest: ef31eb3f8b94ff85c8e1348c569fdb7b417cada85d607ed6675c17ef5b5a939d
     name: identity
@@ -1738,7 +1738,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: 0.10.1
-    created: "2023-03-20T09:04:04.199589855Z"
+    created: "2023-03-21T11:07:44.74518228Z"
     description: wemogy Identity Provider
     digest: bd5fce3763ff69beeb95fd829b864a41a93c51d7a798325183181a072e7700e2
     name: identity
@@ -1748,7 +1748,7 @@ entries:
     version: 0.10.1
   - apiVersion: v2
     appVersion: 0.10.0
-    created: "2023-03-20T09:04:04.198801642Z"
+    created: "2023-03-21T11:07:44.744380878Z"
     description: wemogy Identity Provider
     digest: 9d98dd8dabff0c007a1fd06a5a89d3bd9264bfa3d7aa5cf5ac477bd72f5ee2ee
     name: identity
@@ -1758,7 +1758,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: 0.9.10
-    created: "2023-03-20T09:04:04.227392508Z"
+    created: "2023-03-21T11:07:44.776219848Z"
     description: wemogy Identity Provider
     digest: a2f8c6ddf7f1ad8107d7f6a73b5dea7bfbb9839c54607c43d549fb901f3f0b5b
     name: identity
@@ -1768,7 +1768,7 @@ entries:
     version: 0.9.10
   - apiVersion: v2
     appVersion: 0.9.9
-    created: "2023-03-20T09:04:04.240761626Z"
+    created: "2023-03-21T11:07:44.783637564Z"
     description: wemogy Identity Provider
     digest: 6508456b72ec8c06ce0ea39c1293aa47de56025cfb94deb0d6c672f229a54068
     name: identity
@@ -1778,7 +1778,7 @@ entries:
     version: 0.9.9
   - apiVersion: v2
     appVersion: 0.9.8
-    created: "2023-03-20T09:04:04.239900512Z"
+    created: "2023-03-21T11:07:44.782763462Z"
     description: wemogy Identity Provider
     digest: 44472a37137c4dc8bfef3c017fa61da19e1b088bbba016ed8455efae53f2387d
     name: identity
@@ -1788,7 +1788,7 @@ entries:
     version: 0.9.8
   - apiVersion: v2
     appVersion: 0.9.7
-    created: "2023-03-20T09:04:04.239027398Z"
+    created: "2023-03-21T11:07:44.781660559Z"
     description: wemogy Identity Provider
     digest: 3a48988c6baf80a188653f9b9fb75d7be0db76bee590d0a2ff3d476d2f3373d0
     name: identity
@@ -1798,7 +1798,7 @@ entries:
     version: 0.9.7
   - apiVersion: v2
     appVersion: 0.9.6
-    created: "2023-03-20T09:04:04.234148818Z"
+    created: "2023-03-21T11:07:44.780544557Z"
     description: wemogy Identity Provider
     digest: 52b362270e015e0debd663ef6d9c7d1df52f5a0660bb175146181486c807a866
     name: identity
@@ -1808,7 +1808,7 @@ entries:
     version: 0.9.6
   - apiVersion: v2
     appVersion: 0.9.5
-    created: "2023-03-20T09:04:04.233318705Z"
+    created: "2023-03-21T11:07:44.779324054Z"
     description: wemogy Identity Provider
     digest: 6c14a4757abae88dd810158bc62519d99ed3436c8558e5f885baf3ee72ed8f9e
     name: identity
@@ -1818,7 +1818,7 @@ entries:
     version: 0.9.5
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2023-03-20T09:04:04.232480291Z"
+    created: "2023-03-21T11:07:44.778560053Z"
     description: wemogy Identity Provider
     digest: a6de3747aed96e6581e3bd8caff7faba595409f1419dc509c97e65c36904853f
     name: identity
@@ -1828,7 +1828,7 @@ entries:
     version: 0.9.4
   - apiVersion: v2
     appVersion: 0.9.3
-    created: "2023-03-20T09:04:04.229036735Z"
+    created: "2023-03-21T11:07:44.777807851Z"
     description: wemogy Identity Provider
     digest: 69c79e1f60c010f8f98c5ec76e93299cbbcff6304dc940e3675ee99ac092cc63
     name: identity
@@ -1838,7 +1838,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: 0.9.2
-    created: "2023-03-20T09:04:04.228202521Z"
+    created: "2023-03-21T11:07:44.776984049Z"
     description: wemogy Identity Provider
     digest: f1744417f6299fb7105fcb31fcef9a140d4af0b903ed89afa117b2989b17351c
     name: identity
@@ -1848,7 +1848,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 0.9.1
-    created: "2023-03-20T09:04:04.226617195Z"
+    created: "2023-03-21T11:07:44.775479746Z"
     description: wemogy Identity Provider
     digest: 57d5e3a36a358a19424800716c1780ceb005e39c1eb0eda797903ae89fca09d8
     name: identity
@@ -1858,7 +1858,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 0.9.0
-    created: "2023-03-20T09:04:04.225828783Z"
+    created: "2023-03-21T11:07:44.774735644Z"
     description: wemogy Identity Provider
     digest: 8f9edc62301b4b9266b97919e822b4ab8610c2707f2d8fba9786d601c806ed1d
     name: identity
@@ -1868,7 +1868,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 0.8.15
-    created: "2023-03-20T09:04:04.219372377Z"
+    created: "2023-03-21T11:07:44.768605131Z"
     description: wemogy Identity Provider
     digest: de69c0cfcb6d0498f5ddbcbee8987526ff42240cb9ea0678e7d3ba4ac6e6b5a3
     name: identity
@@ -1878,7 +1878,7 @@ entries:
     version: 0.8.15
   - apiVersion: v2
     appVersion: 0.8.14
-    created: "2023-03-20T09:04:04.218257559Z"
+    created: "2023-03-21T11:07:44.767509128Z"
     description: wemogy Identity Provider
     digest: 0e0f8792b79b3c7681f8a542e8007886972810d15d80649967a27c6da732807d
     name: identity
@@ -1888,7 +1888,7 @@ entries:
     version: 0.8.14
   - apiVersion: v2
     appVersion: 0.8.13
-    created: "2023-03-20T09:04:04.217178342Z"
+    created: "2023-03-21T11:07:44.766472526Z"
     description: wemogy Identity Provider
     digest: 9fc0c6c86f08e0aea6627e4428d596734e3671c34674cfd3998736b18b56c6cb
     name: identity
@@ -1898,7 +1898,7 @@ entries:
     version: 0.8.13
   - apiVersion: v2
     appVersion: 0.8.12
-    created: "2023-03-20T09:04:04.216371429Z"
+    created: "2023-03-21T11:07:44.765747925Z"
     description: wemogy Identity Provider
     digest: fcdd5963fc1d2f3a2f1ebaaef0590b34af3f71516bee7355859879fdff3bfe35
     name: identity
@@ -1908,7 +1908,7 @@ entries:
     version: 0.8.12
   - apiVersion: v2
     appVersion: 0.8.11
-    created: "2023-03-20T09:04:04.215590916Z"
+    created: "2023-03-21T11:07:44.764966023Z"
     description: wemogy Identity Provider
     digest: 0d7c4fd4ea1399b528f60b625ff211a11f951d3ed35f959269ef681a08defd0f
     name: identity
@@ -1918,7 +1918,7 @@ entries:
     version: 0.8.11
   - apiVersion: v2
     appVersion: 0.8.10
-    created: "2023-03-20T09:04:04.214816403Z"
+    created: "2023-03-21T11:07:44.764213021Z"
     description: wemogy Identity Provider
     digest: af6ec0fead00e1afe83403742bfd7b121067c0bb0e0d87a6e8d31524b45a3d69
     name: identity
@@ -1928,7 +1928,7 @@ entries:
     version: 0.8.10
   - apiVersion: v2
     appVersion: 0.8.9
-    created: "2023-03-20T09:04:04.225019769Z"
+    created: "2023-03-21T11:07:44.773954043Z"
     description: wemogy Identity Provider
     digest: 875f53aff15afdfcf9768c09228392f82083b98b2c43e8a5410b9549379acef7
     name: identity
@@ -1938,7 +1938,7 @@ entries:
     version: 0.8.9
   - apiVersion: v2
     appVersion: 0.8.8
-    created: "2023-03-20T09:04:04.224188056Z"
+    created: "2023-03-21T11:07:44.773182441Z"
     description: wemogy Identity Provider
     digest: 5492509e6264efb733bf1391d39f67ff7bb0706968b23d8c61d705ac2d1b1c74
     name: identity
@@ -1948,7 +1948,7 @@ entries:
     version: 0.8.8
   - apiVersion: v2
     appVersion: 0.8.7
-    created: "2023-03-20T09:04:04.223550746Z"
+    created: "2023-03-21T11:07:44.77257664Z"
     description: wemogy Identity Provider
     digest: a4c062b0574063414214e5d68b0060ddebe9f196e1013d35cc677f779d109583
     name: identity
@@ -1958,7 +1958,7 @@ entries:
     version: 0.8.7
   - apiVersion: v2
     appVersion: 0.8.6
-    created: "2023-03-20T09:04:04.222907135Z"
+    created: "2023-03-21T11:07:44.771968938Z"
     description: wemogy Identity Provider
     digest: d25ba3da92dc1fe64c9ad6152cbc9b1f21520c58caf472a2192cb815c1d9ccda
     name: identity
@@ -1968,7 +1968,7 @@ entries:
     version: 0.8.6
   - apiVersion: v2
     appVersion: 0.8.5
-    created: "2023-03-20T09:04:04.222235524Z"
+    created: "2023-03-21T11:07:44.771362537Z"
     description: wemogy Identity Provider
     digest: 458d132d8fdff43f54d92fe75a9ea16f44c8f22341af990db8d8e9936c489183
     name: identity
@@ -1978,7 +1978,7 @@ entries:
     version: 0.8.5
   - apiVersion: v2
     appVersion: 0.8.4
-    created: "2023-03-20T09:04:04.221613714Z"
+    created: "2023-03-21T11:07:44.770741936Z"
     description: wemogy Identity Provider
     digest: ba5f65196f02b900b6997167759e7c5cf42c83dff9ad0c4be2ce5f6e2dec4e15
     name: identity
@@ -1988,7 +1988,7 @@ entries:
     version: 0.8.4
   - apiVersion: v2
     appVersion: 0.8.3
-    created: "2023-03-20T09:04:04.220968703Z"
+    created: "2023-03-21T11:07:44.770149934Z"
     description: wemogy Identity Provider
     digest: d5b0588bf6dd94da77ac3801b10ffc809644c3ec6a257c6fbfb9e70c316531b2
     name: identity
@@ -1998,7 +1998,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: 0.8.2
-    created: "2023-03-20T09:04:04.22011969Z"
+    created: "2023-03-21T11:07:44.769379033Z"
     description: wemogy Identity Provider
     digest: ebe646621cfda445f897adcc2613cef66c4fb15116fe21a7e8bb8bd6dcbd4ec1
     name: identity
@@ -2008,7 +2008,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: 0.8.1
-    created: "2023-03-20T09:04:04.214043791Z"
+    created: "2023-03-21T11:07:44.76347122Z"
     description: wemogy Identity Provider
     digest: f30859df7bae0c340c8cd62807c45be5af6d8d0910cad4fc3d7aa186e70565a4
     name: identity
@@ -2018,7 +2018,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 0.8.0
-    created: "2023-03-20T09:04:04.213504082Z"
+    created: "2023-03-21T11:07:44.762956319Z"
     description: wemogy Identity Provider
     digest: 87bd2c19b8945c5edb22893ac2cb8807a7dc999cf6a5f1d08b911341445853ba
     name: identity
@@ -2028,7 +2028,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2023-03-20T09:04:04.212963473Z"
+    created: "2023-03-21T11:07:44.762429017Z"
     description: wemogy Identity Provider
     digest: 4eb32c65c389123016130b9bc53fc3e6f521664d70977ab32e46fbb0db74ae8c
     name: identity
@@ -2038,7 +2038,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.6.3
-    created: "2023-03-20T09:04:04.212416464Z"
+    created: "2023-03-21T11:07:44.761883816Z"
     description: wemogy Identity Provider
     digest: 96d3bc592b51209331a4b5a1f58c77686def56b56d163ee489fa1f5ebe32eb87
     name: identity
@@ -2048,7 +2048,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 0.6.2
-    created: "2023-03-20T09:04:04.211891456Z"
+    created: "2023-03-21T11:07:44.761326615Z"
     description: wemogy Identity Provider
     digest: 0f218836c0a8ed266caf536783dbecf473e844937461953e6ff2192225559cab
     name: identity
@@ -2058,7 +2058,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: 0.6.1
-    created: "2023-03-20T09:04:04.211338447Z"
+    created: "2023-03-21T11:07:44.760828314Z"
     description: wemogy Identity Provider
     digest: 84999760c0f5e09c44f72c44bb71e9caa1d94b3d35675303429d6b9e7f825c0a
     name: identity
@@ -2068,7 +2068,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 0.5.5
-    created: "2023-03-20T09:04:04.210840538Z"
+    created: "2023-03-21T11:07:44.760341413Z"
     description: wemogy Identity Provider
     digest: 618a940b1ad5a4883494b80a8354d466301bb815fd78dd74df618bda8b1aeca8
     name: identity
@@ -2078,7 +2078,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 0.5.4
-    created: "2023-03-20T09:04:04.21034253Z"
+    created: "2023-03-21T11:07:44.759849112Z"
     description: wemogy Identity Provider
     digest: 3b451672cafd8298e358b1562480f41929cfcf583cefdc4207a13a70a1c17945
     name: identity
@@ -2088,7 +2088,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 0.5.3
-    created: "2023-03-20T09:04:04.209844622Z"
+    created: "2023-03-21T11:07:44.759327111Z"
     description: wemogy Identity Provider
     digest: 7eb482f3d5648ee14a35621bcf825f2a39f72c092a7d71a66ebf2a40201f19a6
     name: identity
@@ -2098,7 +2098,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2023-03-20T09:04:04.209338714Z"
+    created: "2023-03-21T11:07:44.753272697Z"
     description: wemogy Identity Provider
     digest: 4be032d303fb9f507d85f40c7bc8899aefce261a79511e79281ce42506744faa
     name: identity
@@ -2108,7 +2108,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.5.1
-    created: "2023-03-20T09:04:04.208838506Z"
+    created: "2023-03-21T11:07:44.752809296Z"
     description: wemogy Identity Provider
     digest: bb736d554b8914df0da7a50f4f72b39294a3593a8edfc24363fff44ffe740570
     name: identity
@@ -2118,7 +2118,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-03-20T09:04:04.208266397Z"
+    created: "2023-03-21T11:07:44.752336895Z"
     description: wemogy Identity Provider
     digest: 1ce4bfc0065200a2a26be6163a03367088e2486139ff3609e025c7f0e324e5f3
     name: identity
@@ -2128,7 +2128,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.4
-    created: "2023-03-20T09:04:04.207397082Z"
+    created: "2023-03-21T11:07:44.751834794Z"
     description: wemogy Identity Provider
     digest: cde48836c3cab2f91abc135c005072d3c53af0b2b6921c7c1d810d58b11bfce8
     name: identity
@@ -2139,7 +2139,7 @@ entries:
   identity-demo:
   - apiVersion: v2
     appVersion: 0.12.6
-    created: "2023-03-20T09:04:04.244119081Z"
+    created: "2023-03-21T11:07:44.786740771Z"
     description: wemogy Identity Provider Demo Apps
     digest: d953673eb66e4e8f0a8f648d48e89cc78c7045c518a4c897f3f35ce854352b38
     name: identity-demo
@@ -2149,7 +2149,7 @@ entries:
     version: 0.12.6
   - apiVersion: v2
     appVersion: 0.12.5
-    created: "2023-03-20T09:04:04.243785575Z"
+    created: "2023-03-21T11:07:44.78645097Z"
     description: wemogy Identity Provider Demo Apps
     digest: fef9cdcfda07eaf44bd0b947a2b1107ef4f3a283f567f202458905007d90124e
     name: identity-demo
@@ -2159,7 +2159,7 @@ entries:
     version: 0.12.5
   - apiVersion: v2
     appVersion: 0.12.4
-    created: "2023-03-20T09:04:04.24345887Z"
+    created: "2023-03-21T11:07:44.786160569Z"
     description: wemogy Identity Provider Demo Apps
     digest: a2a8735272c6fed4d5d65cf1ad4b86035719fd9ac1075b163a2d7c9a1bfea876
     name: identity-demo
@@ -2169,7 +2169,7 @@ entries:
     version: 0.12.4
   - apiVersion: v2
     appVersion: 0.12.3
-    created: "2023-03-20T09:04:04.243127164Z"
+    created: "2023-03-21T11:07:44.785865669Z"
     description: wemogy Identity Provider Demo Apps
     digest: 8dff49b6e76dcc656cce2d3aedb9c0f63ce7a3ba46c01da17da7d0dd20965662
     name: identity-demo
@@ -2179,7 +2179,7 @@ entries:
     version: 0.12.3
   - apiVersion: v2
     appVersion: 0.12.2
-    created: "2023-03-20T09:04:04.242806059Z"
+    created: "2023-03-21T11:07:44.785527868Z"
     description: wemogy Identity Provider Demo Apps
     digest: 861116b49a89b3d0f557cba2fc36f765920d52a38680e6518d9eb53d0b10a3f2
     name: identity-demo
@@ -2189,7 +2189,7 @@ entries:
     version: 0.12.2
   - apiVersion: v2
     appVersion: 0.12.1
-    created: "2023-03-20T09:04:04.242467354Z"
+    created: "2023-03-21T11:07:44.785214867Z"
     description: wemogy Identity Provider Demo Apps
     digest: b59a1a796737b62b8c5001df89cbe9340165d978e8e0e41d13a8c4698acccac2
     name: identity-demo
@@ -2199,7 +2199,7 @@ entries:
     version: 0.12.1
   - apiVersion: v2
     appVersion: 0.12.0
-    created: "2023-03-20T09:04:04.242143948Z"
+    created: "2023-03-21T11:07:44.784911967Z"
     description: wemogy Identity Provider Demo Apps
     digest: c344a62467605f65d9fb30865a9bad3deb15b60db96c79bbad6f0fd4c13042ee
     name: identity-demo
@@ -2209,7 +2209,7 @@ entries:
     version: 0.12.0
   - apiVersion: v2
     appVersion: 0.11.0
-    created: "2023-03-20T09:04:04.241807143Z"
+    created: "2023-03-21T11:07:44.784597666Z"
     description: wemogy Identity Provider Demo Apps
     digest: aafa7502262180586cda46dc7478d329f9f0bfe58ed6f216928f66e6a184a9f2
     name: identity-demo
@@ -2219,7 +2219,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: 0.10.1
-    created: "2023-03-20T09:04:04.241471537Z"
+    created: "2023-03-21T11:07:44.784285965Z"
     description: wemogy Identity Provider Demo Apps
     digest: fceb2f216b11dbb108149025998e2ca30688a04a0f2ad49ea612d4262427278e
     name: identity-demo
@@ -2229,7 +2229,7 @@ entries:
     version: 0.10.1
   - apiVersion: v2
     appVersion: 0.10.0
-    created: "2023-03-20T09:04:04.241121932Z"
+    created: "2023-03-21T11:07:44.783971764Z"
     description: wemogy Identity Provider Demo Apps
     digest: f13be11f6407018782c7d0e312a5f68c5ef87db63de1f4971987404a16fe9f93
     name: identity-demo
@@ -2239,7 +2239,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: 0.9.10
-    created: "2023-03-20T09:04:04.255563067Z"
+    created: "2023-03-21T11:07:44.796979993Z"
     description: wemogy Identity Provider Demo Apps
     digest: 6b772cbed145019a4962b6b2a92f2877544fd1cc7137833c16963be9d1e4bba9
     name: identity-demo
@@ -2249,7 +2249,7 @@ entries:
     version: 0.9.10
   - apiVersion: v2
     appVersion: 0.9.9
-    created: "2023-03-20T09:04:04.258326312Z"
+    created: "2023-03-21T11:07:44.799406298Z"
     description: wemogy Identity Provider Demo Apps
     digest: e2ee3584dde872b8ec9902e710e73a59df9f4d98564509ee1b67a09eaec12d5e
     name: identity-demo
@@ -2259,7 +2259,7 @@ entries:
     version: 0.9.9
   - apiVersion: v2
     appVersion: 0.9.8
-    created: "2023-03-20T09:04:04.257995107Z"
+    created: "2023-03-21T11:07:44.799103998Z"
     description: wemogy Identity Provider Demo Apps
     digest: bcf691edda426f5a2122525c43cea8b4a5137ea01c2167ec214a2e1bc63468c6
     name: identity-demo
@@ -2269,7 +2269,7 @@ entries:
     version: 0.9.8
   - apiVersion: v2
     appVersion: 0.9.7
-    created: "2023-03-20T09:04:04.257659201Z"
+    created: "2023-03-21T11:07:44.798805597Z"
     description: wemogy Identity Provider Demo Apps
     digest: a3f99240eb6cd97a92a22694bc2023434cf65a2b61895e505a49d5b512fc68f3
     name: identity-demo
@@ -2279,7 +2279,7 @@ entries:
     version: 0.9.7
   - apiVersion: v2
     appVersion: 0.9.6
-    created: "2023-03-20T09:04:04.257323296Z"
+    created: "2023-03-21T11:07:44.798516396Z"
     description: wemogy Identity Provider Demo Apps
     digest: 658d3aeddf920eeb2c2c87d43c6f3307b970dc5de1cb3cb15cce87355bb4f027
     name: identity-demo
@@ -2289,7 +2289,7 @@ entries:
     version: 0.9.6
   - apiVersion: v2
     appVersion: 0.9.5
-    created: "2023-03-20T09:04:04.25697949Z"
+    created: "2023-03-21T11:07:44.798200996Z"
     description: wemogy Identity Provider Demo Apps
     digest: e7f30977c6e205b980f8e824b42e6ad2527ccab47ac4ce298efb31211f4c6c5b
     name: identity-demo
@@ -2299,7 +2299,7 @@ entries:
     version: 0.9.5
   - apiVersion: v2
     appVersion: 0.9.4
-    created: "2023-03-20T09:04:04.256589484Z"
+    created: "2023-03-21T11:07:44.797898595Z"
     description: wemogy Identity Provider Demo Apps
     digest: 40c62ad8cea5792d84e63026cc1a0503afe3a14258d3052dfc45e03bfce33933
     name: identity-demo
@@ -2309,7 +2309,7 @@ entries:
     version: 0.9.4
   - apiVersion: v2
     appVersion: 0.9.3
-    created: "2023-03-20T09:04:04.256232378Z"
+    created: "2023-03-21T11:07:44.797602194Z"
     description: wemogy Identity Provider Demo Apps
     digest: 6765857ea7da3979e90ff489011163000701fd44302ece24de8ea06b5ab76870
     name: identity-demo
@@ -2319,7 +2319,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: 0.9.2
-    created: "2023-03-20T09:04:04.255901473Z"
+    created: "2023-03-21T11:07:44.797276094Z"
     description: wemogy Identity Provider Demo Apps
     digest: d93594c65970d61da9eca445f7af6542a9ff9bf168645ac1b30063977c2470a5
     name: identity-demo
@@ -2329,7 +2329,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 0.9.1
-    created: "2023-03-20T09:04:04.255192661Z"
+    created: "2023-03-21T11:07:44.796679392Z"
     description: wemogy Identity Provider Demo Apps
     digest: 29463dea82e39ea72c01e77497da85804bb45dcab15b916dc3ff08c18e983413
     name: identity-demo
@@ -2339,7 +2339,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 0.9.0
-    created: "2023-03-20T09:04:04.254854455Z"
+    created: "2023-03-21T11:07:44.796380492Z"
     description: wemogy Identity Provider Demo Apps
     digest: 6d39a78c47dc72cfd6a10fbcd8bccafaf5ad33a2243969573d69d62a05077732
     name: identity-demo
@@ -2349,7 +2349,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 0.8.15
-    created: "2023-03-20T09:04:04.251809806Z"
+    created: "2023-03-21T11:07:44.793654786Z"
     description: wemogy Identity Provider Demo Apps
     digest: 258cc1eb9c0c591719040259304f10128d517c5cf499cb725dd6893f17557818
     name: identity-demo
@@ -2359,7 +2359,7 @@ entries:
     version: 0.8.15
   - apiVersion: v2
     appVersion: 0.8.14
-    created: "2023-03-20T09:04:04.2514615Z"
+    created: "2023-03-21T11:07:44.793322685Z"
     description: wemogy Identity Provider Demo Apps
     digest: 936ab81f47d6cda113e8d2714f3b80c00af6fecedefd79e3cb9d023afa9364f4
     name: identity-demo
@@ -2369,7 +2369,7 @@ entries:
     version: 0.8.14
   - apiVersion: v2
     appVersion: 0.8.13
-    created: "2023-03-20T09:04:04.251138095Z"
+    created: "2023-03-21T11:07:44.792897884Z"
     description: wemogy Identity Provider Demo Apps
     digest: 8ec34ab7b5f5b77ea87bcc1c9955163e889e2a298ddebc57e4050a38e8ca5953
     name: identity-demo
@@ -2379,7 +2379,7 @@ entries:
     version: 0.8.13
   - apiVersion: v2
     appVersion: 0.8.12
-    created: "2023-03-20T09:04:04.250803589Z"
+    created: "2023-03-21T11:07:44.792302083Z"
     description: wemogy Identity Provider Demo Apps
     digest: a9c3eeebecc80f5f7ccaabb69fcb587d5a2c74cc697105a8341ec8fc3e181126
     name: identity-demo
@@ -2389,7 +2389,7 @@ entries:
     version: 0.8.12
   - apiVersion: v2
     appVersion: 0.8.11
-    created: "2023-03-20T09:04:04.250449984Z"
+    created: "2023-03-21T11:07:44.791878082Z"
     description: wemogy Identity Provider Demo Apps
     digest: d4a2ecf9eae7be44372fae6855b49fbcb7ff6a15aa8cf00e5663a754faf19432
     name: identity-demo
@@ -2399,7 +2399,7 @@ entries:
     version: 0.8.11
   - apiVersion: v2
     appVersion: 0.8.10
-    created: "2023-03-20T09:04:04.249828974Z"
+    created: "2023-03-21T11:07:44.791446781Z"
     description: wemogy Identity Provider Demo Apps
     digest: 2871a4e92527e8dd20f425f911e7b7b2ae0d05012bfe32e53761b2919a15092f
     name: identity-demo
@@ -2409,7 +2409,7 @@ entries:
     version: 0.8.10
   - apiVersion: v2
     appVersion: 0.8.9
-    created: "2023-03-20T09:04:04.25452435Z"
+    created: "2023-03-21T11:07:44.796078691Z"
     description: wemogy Identity Provider Demo Apps
     digest: 0ade104a061decedde0ef1f834bf4d923b9e56501936cc85df81081e0a9b46bf
     name: identity-demo
@@ -2419,7 +2419,7 @@ entries:
     version: 0.8.9
   - apiVersion: v2
     appVersion: 0.8.8
-    created: "2023-03-20T09:04:04.254202145Z"
+    created: "2023-03-21T11:07:44.79578149Z"
     description: wemogy Identity Provider Demo Apps
     digest: 057756d2d76074f0508e42479cb05be71050bb741e2eefdc5983ff7754d2a7fd
     name: identity-demo
@@ -2429,7 +2429,7 @@ entries:
     version: 0.8.8
   - apiVersion: v2
     appVersion: 0.8.7
-    created: "2023-03-20T09:04:04.253869439Z"
+    created: "2023-03-21T11:07:44.79547769Z"
     description: wemogy Identity Provider Demo Apps
     digest: 6146e9dc4f5cb476faf40e82dbbfe9653637be1616f2b1e7b345a23ef7e21ab4
     name: identity-demo
@@ -2439,7 +2439,7 @@ entries:
     version: 0.8.7
   - apiVersion: v2
     appVersion: 0.8.6
-    created: "2023-03-20T09:04:04.253522734Z"
+    created: "2023-03-21T11:07:44.795165189Z"
     description: wemogy Identity Provider Demo Apps
     digest: 980fe4e146f018d0c67209f4fc938db407dfba1bd6f4da68221e51375250509a
     name: identity-demo
@@ -2449,7 +2449,7 @@ entries:
     version: 0.8.6
   - apiVersion: v2
     appVersion: 0.8.5
-    created: "2023-03-20T09:04:04.253150528Z"
+    created: "2023-03-21T11:07:44.794869488Z"
     description: wemogy Identity Provider Demo Apps
     digest: 2b07d0a207190b648b7456ca6840a897ba7ddf164456f1affcf8405b9e20cad4
     name: identity-demo
@@ -2459,7 +2459,7 @@ entries:
     version: 0.8.5
   - apiVersion: v2
     appVersion: 0.8.4
-    created: "2023-03-20T09:04:04.252822822Z"
+    created: "2023-03-21T11:07:44.794571188Z"
     description: wemogy Identity Provider Demo Apps
     digest: 9ed9429b72f946949dc4f157296c8d6bcbb4c0830fc19a5b114e4a1efbe8775c
     name: identity-demo
@@ -2469,7 +2469,7 @@ entries:
     version: 0.8.4
   - apiVersion: v2
     appVersion: 0.8.3
-    created: "2023-03-20T09:04:04.252461416Z"
+    created: "2023-03-21T11:07:44.794268087Z"
     description: wemogy Identity Provider Demo Apps
     digest: 30357a3da3ff678b86e14b870fa99b248492e7a36e7ff52b0e18765b57621302
     name: identity-demo
@@ -2479,7 +2479,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: 0.8.2
-    created: "2023-03-20T09:04:04.252136011Z"
+    created: "2023-03-21T11:07:44.793963586Z"
     description: wemogy Identity Provider Demo Apps
     digest: 62e8053bb12e6e78acf1bda1bcf01cc013faa236b11f7185460a2549f950d730
     name: identity-demo
@@ -2489,7 +2489,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: 0.8.1
-    created: "2023-03-20T09:04:04.249374966Z"
+    created: "2023-03-21T11:07:44.79100438Z"
     description: wemogy Identity Provider Demo Apps
     digest: 1b260438a3f45339c2853f3aa2f441978a495d80fee4d1db58ea283e84821691
     name: identity-demo
@@ -2499,7 +2499,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 0.8.0
-    created: "2023-03-20T09:04:04.248921659Z"
+    created: "2023-03-21T11:07:44.790518479Z"
     description: wemogy Identity Provider Demo Apps
     digest: da8e7850a110c37df1dc0e86d5812d474967e4fb1d60bfde71db4370bb9141f5
     name: identity-demo
@@ -2509,7 +2509,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2023-03-20T09:04:04.248460051Z"
+    created: "2023-03-21T11:07:44.789962078Z"
     description: wemogy Identity Provider Demo Apps
     digest: fa648d11c3a0c5c22966c0f6a4afd781d6404702b8a98b2aa0eee41e16b296b9
     name: identity-demo
@@ -2519,7 +2519,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.6.3
-    created: "2023-03-20T09:04:04.248007644Z"
+    created: "2023-03-21T11:07:44.789678477Z"
     description: wemogy Identity Provider Demo Apps
     digest: 135a7b6675431ac6a7008dec70cac80f61ce505aa6010cfb09622aa607b80ff6
     name: identity-demo
@@ -2529,7 +2529,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 0.6.2
-    created: "2023-03-20T09:04:04.247521336Z"
+    created: "2023-03-21T11:07:44.789367176Z"
     description: wemogy Identity Provider Demo Apps
     digest: 9be27ae8fe0327d518970ec7a14d7f449d134723b9222b4bbf70b4de16bc9efb
     name: identity-demo
@@ -2539,7 +2539,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: 0.6.1
-    created: "2023-03-20T09:04:04.246830525Z"
+    created: "2023-03-21T11:07:44.789067976Z"
     description: wemogy Identity Provider Demo Apps
     digest: 8f3b77f633ef5141e1888dd01e35f7bfbb017da716e0f78434ea02c80c53ef88
     name: identity-demo
@@ -2549,7 +2549,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 0.5.5
-    created: "2023-03-20T09:04:04.246487419Z"
+    created: "2023-03-21T11:07:44.788782075Z"
     description: wemogy Identity Provider Demo Apps
     digest: f61948f8b60da41d69ac6714192c0a4c3a52759340e34ccda2f03e0a735a7b9b
     name: identity-demo
@@ -2559,7 +2559,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 0.5.4
-    created: "2023-03-20T09:04:04.246167414Z"
+    created: "2023-03-21T11:07:44.788486674Z"
     description: wemogy Identity Provider Demo Apps
     digest: 8863679b3a1c8a4e8407593b3ca4bf02f7cf85c93403b62c70671f2dec1a19ad
     name: identity-demo
@@ -2569,7 +2569,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 0.5.3
-    created: "2023-03-20T09:04:04.245839809Z"
+    created: "2023-03-21T11:07:44.788197974Z"
     description: wemogy Identity Provider Demo Apps
     digest: 40c86460b8322026ebda8150d29e9ce7f76e5c718729aaedb15a845b6ea5f9a6
     name: identity-demo
@@ -2579,7 +2579,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2023-03-20T09:04:04.245506003Z"
+    created: "2023-03-21T11:07:44.787910273Z"
     description: wemogy Identity Provider Demo Apps
     digest: 893323479de00aac8cbb58927566d2a39b847445f6a2a3fa30657edeb51b4a59
     name: identity-demo
@@ -2589,7 +2589,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.5.1
-    created: "2023-03-20T09:04:04.245171098Z"
+    created: "2023-03-21T11:07:44.787613172Z"
     description: wemogy Identity Provider Demo Apps
     digest: 4350c101c1ce91bb8075bc80a506971abe65b2471a9d9df274032454a77701cf
     name: identity-demo
@@ -2599,7 +2599,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-03-20T09:04:04.244844892Z"
+    created: "2023-03-21T11:07:44.787323072Z"
     description: wemogy Identity Provider Demo Apps
     digest: a10e50c381355081c33e7a526d12322792ef466c1bb78ffe7998b3722e475f34
     name: identity-demo
@@ -2609,7 +2609,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.4
-    created: "2023-03-20T09:04:04.244452886Z"
+    created: "2023-03-21T11:07:44.787032671Z"
     description: wemogy Identity Provider Demo Apps
     digest: 11564647b0c62892b419b557e8c3313ac71bba59c5dffbc2062b9f02f07a5221
     name: identity-demo
@@ -2620,7 +2620,7 @@ entries:
   media:
   - apiVersion: v2
     appVersion: 0.5.9
-    created: "2023-03-20T09:04:04.476378464Z"
+    created: "2023-03-21T11:07:45.013537567Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2636,7 +2636,7 @@ entries:
     version: 0.5.9
   - apiVersion: v2
     appVersion: 0.5.8
-    created: "2023-03-20T09:04:04.471937092Z"
+    created: "2023-03-21T11:07:45.01047176Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2652,7 +2652,7 @@ entries:
     version: 0.5.8
   - apiVersion: v2
     appVersion: 0.5.7
-    created: "2023-03-20T09:04:04.469096745Z"
+    created: "2023-03-21T11:07:45.006303051Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2668,7 +2668,7 @@ entries:
     version: 0.5.7
   - apiVersion: v2
     appVersion: 0.5.6
-    created: "2023-03-20T09:04:04.466247999Z"
+    created: "2023-03-21T11:07:45.003561845Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2684,7 +2684,7 @@ entries:
     version: 0.5.6
   - apiVersion: v2
     appVersion: 0.5.5
-    created: "2023-03-20T09:04:04.463107248Z"
+    created: "2023-03-21T11:07:45.000816139Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2700,7 +2700,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 0.5.4
-    created: "2023-03-20T09:04:04.460066198Z"
+    created: "2023-03-21T11:07:44.998077033Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2716,7 +2716,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 0.5.3
-    created: "2023-03-20T09:04:04.455086417Z"
+    created: "2023-03-21T11:07:44.994848926Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2732,7 +2732,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2023-03-20T09:04:04.45217097Z"
+    created: "2023-03-21T11:07:44.991586119Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2748,7 +2748,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.5.1
-    created: "2023-03-20T09:04:04.449310123Z"
+    created: "2023-03-21T11:07:44.988841413Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2764,7 +2764,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-03-20T09:04:04.446466277Z"
+    created: "2023-03-21T11:07:44.986127807Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2780,7 +2780,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2023-03-20T09:04:04.44358013Z"
+    created: "2023-03-21T11:07:44.983387801Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2796,7 +2796,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2023-03-20T09:04:04.439647266Z"
+    created: "2023-03-21T11:07:44.979959493Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2812,7 +2812,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.42
-    created: "2023-03-20T09:04:04.415789977Z"
+    created: "2023-03-21T11:07:44.956759242Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2828,7 +2828,7 @@ entries:
     version: 0.3.42
   - apiVersion: v2
     appVersion: 0.3.41
-    created: "2023-03-20T09:04:04.41288203Z"
+    created: "2023-03-21T11:07:44.954093437Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2844,7 +2844,7 @@ entries:
     version: 0.3.41
   - apiVersion: v2
     appVersion: 0.3.40
-    created: "2023-03-20T09:04:04.409942982Z"
+    created: "2023-03-21T11:07:44.95132463Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2860,7 +2860,7 @@ entries:
     version: 0.3.40
   - apiVersion: v2
     appVersion: 0.3.39
-    created: "2023-03-20T09:04:04.403539478Z"
+    created: "2023-03-21T11:07:44.941414309Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2876,7 +2876,7 @@ entries:
     version: 0.3.39
   - apiVersion: v2
     appVersion: 0.3.38
-    created: "2023-03-20T09:04:04.395196042Z"
+    created: "2023-03-21T11:07:44.938670803Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2892,7 +2892,7 @@ entries:
     version: 0.3.38
   - apiVersion: v2
     appVersion: 0.3.37
-    created: "2023-03-20T09:04:04.391818987Z"
+    created: "2023-03-21T11:07:44.935908197Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2908,7 +2908,7 @@ entries:
     version: 0.3.37
   - apiVersion: v2
     appVersion: 0.3.36
-    created: "2023-03-20T09:04:04.389069542Z"
+    created: "2023-03-21T11:07:44.931832188Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2924,7 +2924,7 @@ entries:
     version: 0.3.36
   - apiVersion: v2
     appVersion: 0.3.35
-    created: "2023-03-20T09:04:04.386275696Z"
+    created: "2023-03-21T11:07:44.929080482Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2940,7 +2940,7 @@ entries:
     version: 0.3.35
   - apiVersion: v2
     appVersion: 0.3.34
-    created: "2023-03-20T09:04:04.38346165Z"
+    created: "2023-03-21T11:07:44.926488276Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2956,7 +2956,7 @@ entries:
     version: 0.3.34
   - apiVersion: v2
     appVersion: 0.3.33
-    created: "2023-03-20T09:04:04.37972089Z"
+    created: "2023-03-21T11:07:44.92380887Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2972,7 +2972,7 @@ entries:
     version: 0.3.33
   - apiVersion: v2
     appVersion: 0.3.32
-    created: "2023-03-20T09:04:04.376747141Z"
+    created: "2023-03-21T11:07:44.920993764Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -2988,7 +2988,7 @@ entries:
     version: 0.3.32
   - apiVersion: v2
     appVersion: 0.3.31
-    created: "2023-03-20T09:04:04.374047297Z"
+    created: "2023-03-21T11:07:44.916092353Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3004,7 +3004,7 @@ entries:
     version: 0.3.31
   - apiVersion: v2
     appVersion: 0.3.30
-    created: "2023-03-20T09:04:04.371380054Z"
+    created: "2023-03-21T11:07:44.913135747Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3020,7 +3020,7 @@ entries:
     version: 0.3.30
   - apiVersion: v2
     appVersion: 0.3.29
-    created: "2023-03-20T09:04:04.364667444Z"
+    created: "2023-03-21T11:07:44.908072136Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3036,7 +3036,7 @@ entries:
     version: 0.3.29
   - apiVersion: v2
     appVersion: 0.3.28
-    created: "2023-03-20T09:04:04.361987201Z"
+    created: "2023-03-21T11:07:44.904234728Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3052,7 +3052,7 @@ entries:
     version: 0.3.28
   - apiVersion: v2
     appVersion: 0.3.27
-    created: "2023-03-20T09:04:04.359370058Z"
+    created: "2023-03-21T11:07:44.901623422Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3068,7 +3068,7 @@ entries:
     version: 0.3.27
   - apiVersion: v2
     appVersion: 0.3.26
-    created: "2023-03-20T09:04:04.356831117Z"
+    created: "2023-03-21T11:07:44.899115416Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3084,7 +3084,7 @@ entries:
     version: 0.3.26
   - apiVersion: v2
     appVersion: 0.3.25
-    created: "2023-03-20T09:04:04.354198874Z"
+    created: "2023-03-21T11:07:44.896536111Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3100,7 +3100,7 @@ entries:
     version: 0.3.25
   - apiVersion: v2
     appVersion: 0.3.24
-    created: "2023-03-20T09:04:04.351291926Z"
+    created: "2023-03-21T11:07:44.893960805Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3116,7 +3116,7 @@ entries:
     version: 0.3.24
   - apiVersion: v2
     appVersion: 0.3.23
-    created: "2023-03-20T09:04:04.347934972Z"
+    created: "2023-03-21T11:07:44.891065399Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3132,7 +3132,7 @@ entries:
     version: 0.3.23
   - apiVersion: v2
     appVersion: 0.3.22
-    created: "2023-03-20T09:04:04.345414331Z"
+    created: "2023-03-21T11:07:44.887884792Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3148,7 +3148,7 @@ entries:
     version: 0.3.22
   - apiVersion: v2
     appVersion: 0.3.21
-    created: "2023-03-20T09:04:04.34291869Z"
+    created: "2023-03-21T11:07:44.885443186Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3164,7 +3164,7 @@ entries:
     version: 0.3.21
   - apiVersion: v2
     appVersion: 0.3.20
-    created: "2023-03-20T09:04:04.340250747Z"
+    created: "2023-03-21T11:07:44.882983581Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3180,7 +3180,7 @@ entries:
     version: 0.3.20
   - apiVersion: v2
     appVersion: 0.3.19
-    created: "2023-03-20T09:04:04.334015445Z"
+    created: "2023-03-21T11:07:44.874848963Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3196,7 +3196,7 @@ entries:
     version: 0.3.19
   - apiVersion: v2
     appVersion: 0.3.18
-    created: "2023-03-20T09:04:04.331498504Z"
+    created: "2023-03-21T11:07:44.872385058Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3212,7 +3212,7 @@ entries:
     version: 0.3.18
   - apiVersion: v2
     appVersion: 0.3.17
-    created: "2023-03-20T09:04:04.328893962Z"
+    created: "2023-03-21T11:07:44.869883452Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3228,7 +3228,7 @@ entries:
     version: 0.3.17
   - apiVersion: v2
     appVersion: 0.3.16
-    created: "2023-03-20T09:04:04.326098616Z"
+    created: "2023-03-21T11:07:44.86403354Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3244,7 +3244,7 @@ entries:
     version: 0.3.16
   - apiVersion: v2
     appVersion: 0.3.15
-    created: "2023-03-20T09:04:04.32330307Z"
+    created: "2023-03-21T11:07:44.861589634Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3260,7 +3260,7 @@ entries:
     version: 0.3.15
   - apiVersion: v2
     appVersion: 0.3.14
-    created: "2023-03-20T09:04:04.319392307Z"
+    created: "2023-03-21T11:07:44.858491027Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3276,7 +3276,7 @@ entries:
     version: 0.3.14
   - apiVersion: v2
     appVersion: 0.3.13
-    created: "2023-03-20T09:04:04.316870766Z"
+    created: "2023-03-21T11:07:44.855521321Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3292,7 +3292,7 @@ entries:
     version: 0.3.13
   - apiVersion: v2
     appVersion: 0.3.12
-    created: "2023-03-20T09:04:04.314347125Z"
+    created: "2023-03-21T11:07:44.853053316Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3308,7 +3308,7 @@ entries:
     version: 0.3.12
   - apiVersion: v2
     appVersion: 0.3.11
-    created: "2023-03-20T09:04:04.311714182Z"
+    created: "2023-03-21T11:07:44.85057041Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3324,7 +3324,7 @@ entries:
     version: 0.3.11
   - apiVersion: v2
     appVersion: 0.3.10
-    created: "2023-03-20T09:04:04.309222141Z"
+    created: "2023-03-21T11:07:44.848071405Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3340,7 +3340,7 @@ entries:
     version: 0.3.10
   - apiVersion: v2
     appVersion: 0.3.9
-    created: "2023-03-20T09:04:04.436438213Z"
+    created: "2023-03-21T11:07:44.976905986Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3356,7 +3356,7 @@ entries:
     version: 0.3.9
   - apiVersion: v2
     appVersion: 0.3.8
-    created: "2023-03-20T09:04:04.433875272Z"
+    created: "2023-03-21T11:07:44.974456581Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3372,7 +3372,7 @@ entries:
     version: 0.3.8
   - apiVersion: v2
     appVersion: 0.3.7
-    created: "2023-03-20T09:04:04.43131333Z"
+    created: "2023-03-21T11:07:44.971734375Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3388,7 +3388,7 @@ entries:
     version: 0.3.7
   - apiVersion: v2
     appVersion: 0.3.6
-    created: "2023-03-20T09:04:04.421028362Z"
+    created: "2023-03-21T11:07:44.968171067Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3404,7 +3404,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: 0.3.5
-    created: "2023-03-20T09:04:04.418485121Z"
+    created: "2023-03-21T11:07:44.959223848Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3420,7 +3420,7 @@ entries:
     version: 0.3.5
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2023-03-20T09:04:04.407041335Z"
+    created: "2023-03-21T11:07:44.943860814Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3436,7 +3436,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2023-03-20T09:04:04.36868871Z"
+    created: "2023-03-21T11:07:44.910591741Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3452,7 +3452,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.3.2
-    created: "2023-03-20T09:04:04.337573503Z"
+    created: "2023-03-21T11:07:44.880492076Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3468,7 +3468,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2023-03-20T09:04:04.306481796Z"
+    created: "2023-03-21T11:07:44.844951698Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3484,7 +3484,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2023-03-20T09:04:04.30299814Z"
+    created: "2023-03-21T11:07:44.842138292Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3500,7 +3500,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.15
-    created: "2023-03-20T09:04:04.280258269Z"
+    created: "2023-03-21T11:07:44.819589542Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3516,7 +3516,7 @@ entries:
     version: 0.2.15
   - apiVersion: v2
     appVersion: 0.2.14
-    created: "2023-03-20T09:04:04.277885131Z"
+    created: "2023-03-21T11:07:44.816573836Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3532,7 +3532,7 @@ entries:
     version: 0.2.14
   - apiVersion: v2
     appVersion: 0.2.13
-    created: "2023-03-20T09:04:04.274449975Z"
+    created: "2023-03-21T11:07:44.81389893Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3548,7 +3548,7 @@ entries:
     version: 0.2.13
   - apiVersion: v2
     appVersion: 0.2.12
-    created: "2023-03-20T09:04:04.27173433Z"
+    created: "2023-03-21T11:07:44.811650825Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3564,7 +3564,7 @@ entries:
     version: 0.2.12
   - apiVersion: v2
     appVersion: 0.2.11
-    created: "2023-03-20T09:04:04.269351792Z"
+    created: "2023-03-21T11:07:44.80940172Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3580,7 +3580,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.2.10
-    created: "2023-03-20T09:04:04.267003553Z"
+    created: "2023-03-21T11:07:44.807174415Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3596,7 +3596,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2023-03-20T09:04:04.3005622Z"
+    created: "2023-03-21T11:07:44.839874487Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3612,7 +3612,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.2.8
-    created: "2023-03-20T09:04:04.298225962Z"
+    created: "2023-03-21T11:07:44.837639582Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3628,7 +3628,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2023-03-20T09:04:04.295866824Z"
+    created: "2023-03-21T11:07:44.835320177Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3644,7 +3644,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.2.6
-    created: "2023-03-20T09:04:04.293566586Z"
+    created: "2023-03-21T11:07:44.832812871Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3660,7 +3660,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.2.5
-    created: "2023-03-20T09:04:04.289672923Z"
+    created: "2023-03-21T11:07:44.828665862Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3676,7 +3676,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2023-03-20T09:04:04.287336385Z"
+    created: "2023-03-21T11:07:44.826445457Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3692,7 +3692,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2023-03-20T09:04:04.284999847Z"
+    created: "2023-03-21T11:07:44.824155652Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3708,7 +3708,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2023-03-20T09:04:04.282627308Z"
+    created: "2023-03-21T11:07:44.821911247Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3724,7 +3724,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2023-03-20T09:04:04.264673115Z"
+    created: "2023-03-21T11:07:44.80484581Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3740,7 +3740,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-03-20T09:04:04.261469563Z"
+    created: "2023-03-21T11:07:44.801872604Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3757,7 +3757,7 @@ entries:
   realtime:
   - apiVersion: v2
     appVersion: 0.3.6
-    created: "2023-03-20T09:04:04.523542032Z"
+    created: "2023-03-21T11:07:45.059248667Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3773,7 +3773,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: 0.3.5
-    created: "2023-03-20T09:04:04.521222995Z"
+    created: "2023-03-21T11:07:45.056957762Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3789,7 +3789,7 @@ entries:
     version: 0.3.5
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2023-03-20T09:04:04.518848756Z"
+    created: "2023-03-21T11:07:45.054744657Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3805,7 +3805,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2023-03-20T09:04:04.515050094Z"
+    created: "2023-03-21T11:07:45.052182051Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3821,7 +3821,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.3.2
-    created: "2023-03-20T09:04:04.512693756Z"
+    created: "2023-03-21T11:07:45.049049444Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3837,7 +3837,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2023-03-20T09:04:04.510352618Z"
+    created: "2023-03-21T11:07:45.046766239Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3853,7 +3853,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.2.12
-    created: "2023-03-20T09:04:04.48838516Z"
+    created: "2023-03-21T11:07:45.025119792Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3869,7 +3869,7 @@ entries:
     version: 0.2.12
   - apiVersion: v2
     appVersion: 0.2.11
-    created: "2023-03-20T09:04:04.484974204Z"
+    created: "2023-03-21T11:07:45.021807485Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3885,7 +3885,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.2.10
-    created: "2023-03-20T09:04:04.482661766Z"
+    created: "2023-03-21T11:07:45.01951148Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3901,7 +3901,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2023-03-20T09:04:04.50805908Z"
+    created: "2023-03-21T11:07:45.044419334Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3917,7 +3917,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.2.8
-    created: "2023-03-20T09:04:04.505810544Z"
+    created: "2023-03-21T11:07:45.042145729Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3933,7 +3933,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2023-03-20T09:04:04.503356604Z"
+    created: "2023-03-21T11:07:45.039874824Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3949,7 +3949,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.2.6
-    created: "2023-03-20T09:04:04.500016849Z"
+    created: "2023-03-21T11:07:45.036393317Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3965,7 +3965,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.2.5
-    created: "2023-03-20T09:04:04.497734112Z"
+    created: "2023-03-21T11:07:45.034223012Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3981,7 +3981,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2023-03-20T09:04:04.495409774Z"
+    created: "2023-03-21T11:07:45.031992007Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -3997,7 +3997,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2023-03-20T09:04:04.493155637Z"
+    created: "2023-03-21T11:07:45.029805302Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4013,7 +4013,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2023-03-20T09:04:04.4908835Z"
+    created: "2023-03-21T11:07:45.027575097Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4029,7 +4029,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2023-03-20T09:04:04.480348529Z"
+    created: "2023-03-21T11:07:45.017285275Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4045,7 +4045,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2023-03-20T09:04:04.478053391Z"
+    created: "2023-03-21T11:07:45.01504937Z"
     description: wemogy Real Time Service
     digest: 12a24c329325f18f29a4f201bd32a853939b4ec5305d998b1fccbd7f9d22e555
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4056,7 +4056,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2023-03-20T09:04:04.477798487Z"
+    created: "2023-03-21T11:07:45.014822169Z"
     description: wemogy Real Time Service
     digest: 8d2d35ed3144e4a28d086dc099ea065673ee936a0658407c820b382e76591b5a
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4067,7 +4067,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2023-03-20T09:04:04.477523683Z"
+    created: "2023-03-21T11:07:45.014578269Z"
     description: wemogy Real Time Service
     digest: 59582f9480a7bb52bf2182baf446e8d4553087dd63b18533419b2375056e6216
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4078,7 +4078,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2023-03-20T09:04:04.477260578Z"
+    created: "2023-03-21T11:07:45.014327568Z"
     description: wemogy Real Time Service
     digest: f77e818b0644ba9924a6543c7f7f41fa590c000dae73a8228b58d7fdfe2e61e3
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4089,7 +4089,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2023-03-20T09:04:04.476965774Z"
+    created: "2023-03-21T11:07:45.014056068Z"
     description: wemogy Real Time Service
     digest: 5224b2fdea791662f3b438f3ac734dc39bdeaeb3cc8099d4aaaca9ae470f8e9a
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4100,7 +4100,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-03-20T09:04:04.476701369Z"
+    created: "2023-03-21T11:07:45.013803467Z"
     description: wemogy Real Time Service
     digest: 8674c7129dc72fff516abd345386ced3c230e372f227896479bc5645cacdd01c
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4112,7 +4112,7 @@ entries:
   realtime-old:
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2023-03-20T09:04:04.524811253Z"
+    created: "2023-03-21T11:07:45.060397269Z"
     description: Old wemogy Real Time Service
     digest: 164b017c68d0b53bc92a2b4f0d8126032ec684d5921bc45adec38f2164be15d8
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4123,7 +4123,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2023-03-20T09:04:04.524537049Z"
+    created: "2023-03-21T11:07:45.060164969Z"
     description: Old wemogy Real Time Service
     digest: 46f2add25060db245dec094b3085f61a2119bae05cfa2ab67825ebd282961b29
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4134,7 +4134,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-03-20T09:04:04.524287645Z"
+    created: "2023-03-21T11:07:45.059943468Z"
     description: Old wemogy Real Time Service
     digest: 3d54bc261bf27b3368ce66f190f514b04728fe884d53f09ff2f52b852104ec34
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4145,7 +4145,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-03-20T09:04:04.524048741Z"
+    created: "2023-03-21T11:07:45.059730568Z"
     description: Old wemogy Real Time Service
     digest: 3da7cd19561976dd67ff76fcf659c04afd5045008e85a51a93740ee15cd15191
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4156,7 +4156,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-03-20T09:04:04.523805937Z"
+    created: "2023-03-21T11:07:45.059483667Z"
     description: Old wemogy Real Time Service
     digest: 51d2c892a114bb9b0e0b3220b2c256135a6e2c5c960b37d26283869788d195b3
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4168,7 +4168,7 @@ entries:
   subscriptions:
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2023-03-20T09:04:04.548456638Z"
+    created: "2023-03-21T11:07:45.084337621Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4184,7 +4184,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2023-03-20T09:04:04.545694393Z"
+    created: "2023-03-21T11:07:45.082179717Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4200,7 +4200,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2023-03-20T09:04:04.542012433Z"
+    created: "2023-03-21T11:07:45.079527011Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4216,7 +4216,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2023-03-20T09:04:04.539773497Z"
+    created: "2023-03-21T11:07:45.076488604Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4232,7 +4232,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2023-03-20T09:04:04.53754056Z"
+    created: "2023-03-21T11:07:45.074338Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4248,7 +4248,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2023-03-20T09:04:04.535276224Z"
+    created: "2023-03-21T11:07:45.072164795Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4264,7 +4264,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2023-03-20T09:04:04.533009787Z"
+    created: "2023-03-21T11:07:45.07000919Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4280,7 +4280,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-03-20T09:04:04.529342127Z"
+    created: "2023-03-21T11:07:45.067731285Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4296,7 +4296,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-20T09:04:04.527048389Z"
+    created: "2023-03-21T11:07:45.062603474Z"
     dependencies:
     - condition: dapr.enabled
       name: dapr
@@ -4313,7 +4313,7 @@ entries:
   token-manager:
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2023-03-20T09:04:04.550109765Z"
+    created: "2023-03-21T11:07:45.085812525Z"
     description: Space Blocks Token Manager Helm Chart
     digest: 22d43863d8ff6c5f6267847878b6d17face87b4b927d21d3c0d40a436fb75d6a
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4324,7 +4324,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2023-03-20T09:04:04.54981926Z"
+    created: "2023-03-21T11:07:45.085578324Z"
     description: Space Blocks Token Manager Helm Chart
     digest: 7306b2d550fdb859a69295b8418f94448c55016e7eacdbcc9143afa2e6aa5137
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4335,7 +4335,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2023-03-20T09:04:04.549561656Z"
+    created: "2023-03-21T11:07:45.085341224Z"
     description: Space Blocks Token Manager Helm Chart
     digest: daa03ac540432d93b1bae031557a139c653ea6fa3430de894a25c05671f00b29
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4346,7 +4346,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2023-03-20T09:04:04.549291252Z"
+    created: "2023-03-21T11:07:45.085095623Z"
     description: Space Blocks Token Manager Helm Chart
     digest: 0a89f947395f840d13e80da72edb95b0d559b04e48a08bb06be2fab9cdbf1756
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4357,7 +4357,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-03-20T09:04:04.549033748Z"
+    created: "2023-03-21T11:07:45.084857423Z"
     description: Space Blocks Token Manager Helm Chart
     digest: fc0f30d12b2eeee1e323518627ed068c61686df5a23265f23feefeba142fdd7d
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4368,7 +4368,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-20T09:04:04.548768043Z"
+    created: "2023-03-21T11:07:45.084597622Z"
     description: Space Blocks Token Manager Helm Chart
     digest: 0709ae6668b4e5b4231bc9c4f4dd644fff1c945fcde9bda42b7885248f479433
     icon: https://wemogyimages.blob.core.windows.net/logos/wemogy-github-tiny.png
@@ -4377,4 +4377,4 @@ entries:
     urls:
     - https://wemogy.github.io/helm/charts/token-manager-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-20T09:04:03.962591195Z"
+generated: "2023-03-21T11:07:44.514015874Z"
